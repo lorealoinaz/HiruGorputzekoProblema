@@ -12,4 +12,4 @@ https://addi.ehu.es
 Kode hau MIT lizentziapean dago.
 
 ## Posterra
-![posterra](posterra.pdf)
+![posterra](Posterra.pdf)
