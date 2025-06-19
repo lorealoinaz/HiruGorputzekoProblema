@@ -1,6 +1,6 @@
-# Hiru Gorputzeko Problemaren Soluzio Periodikoen Bilaketa Julia Lengoaian
+# Hiru gorputzeko problemaren soluzio periodikoen bilaketarako tresnen garapena Julia lengoaian
 
-Graduko Amaierako Lan honetan, Julia lengoaian garatutako tresnak eta Jupyter notebook fitxategiak aurkezten dira, hiru gorputzeko problemaren soluzio periodikoen bilaketarako.
+Biltegi honetan, Gradu Amaierako Lan baterako, Julia lengoaian garatutako tresnak eta Jupyter notebook fitxategiak aurki daitezke, hiru gorputzeko problemaren soluzio periodikoen bilaketarako.
 **Gradu Amaierako Lanaren esteka:** 
 
 ---
