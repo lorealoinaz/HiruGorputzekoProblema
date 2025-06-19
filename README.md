@@ -2,7 +2,7 @@
 
 Biltegi honetan, Gradu Amaierako Lan baterako, Julia lengoaian garatutako tresnak eta Jupyter notebook fitxategiak aurki daitezke, hiru gorputzeko problemaren soluzio periodikoen bilaketarako.
 
-#### Gradu Amaierako Lanaren esteka:
+#### Gradu Amaierako Lanaren esteka: https://addi.ehu.es
 
 ---
 
