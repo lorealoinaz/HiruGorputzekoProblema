@@ -4,7 +4,7 @@ Biltegi honetan, Gradu Amaierako Lan baterako, Julia lengoaian garatutako tresna
 
 #### Gradu Amaierako Lanaren esteka: https://addi.ehu.es
 
----
+
 
 ## Edukia
 
@@ -16,23 +16,23 @@ Biltegi honetan, Gradu Amaierako Lan baterako, Julia lengoaian garatutako tresna
 - `/TBP_GIF/`: Era automatizatuan gordetako soluzio periodikoen mugimenduen GIF animazioak sortzeko eta gordetzeko direktorioa:
 - `Posterra.pdf`: Gradu Amaierako lanaren posterra.
 
----
+
 
 ## Beharrezko Ingurunea eta Dependentziak
 
 - Julia 1.11.5 (edo berriagoa)
 - Julian beharrezkoak diren paketeak instalatzeko beharrezko kode guztia idatzita dago Jupyter notebook-etan "raw" eran.
 
----
+
 
 ## Posterra
 
 [Posterra (PDF)](Posterra.pdf)
 
----
+
 
 ## Lizentzia
 
 Kodea MIT lizentziapean dago.
 
----
+
